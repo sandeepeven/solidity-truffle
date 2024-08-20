@@ -1,4 +1,4 @@
-const Purchase = artifacts.require("Purchase");
+const Purchase = artifacts.require("SimplePaymentChannel");
 
 const buyer = '0xd5078B549Cce7C5a780be2Fab2C5882a6463E8ae';
 const doubleValue = 10000000000000000000;
